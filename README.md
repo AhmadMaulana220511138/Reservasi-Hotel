@@ -12,7 +12,15 @@ Aplikasi web untuk melakukan reservasi hotel secara online. Dibuat menggunakan P
 
 ## 🖼️ Tampilan Website
 
-![Tampilan Web](https://github.com/AhmadMaulana220511138/Reservasi-Hotel/issues/1#issue-3082198546)
+## Tampilan Website
+
+![Cuplikan 1](foto/Cuplikan layar 2025-05-22 130850.png)  
+![Cuplikan 2](foto/Cuplikan layar 2025-05-22 130904.png)  
+![Cuplikan 3](foto/Cuplikan layar 2025-05-22 130918.png)  
+![Cuplikan 4](foto/Cuplikan layar 2025-05-22 131026.png)  
+![Cuplikan 5](foto/Cuplikan layar 2025-05-22 131106.png)  
+![Cuplikan 6](foto/Cuplikan layar 2025-05-22 131123.png)  
+
 
 > Gambar ini menunjukkan berbagai antarmuka utama dari halaman user dan admin pemesanan hotel.
 
