@@ -14,12 +14,13 @@ Aplikasi web untuk melakukan reservasi hotel secara online. Dibuat menggunakan P
 
 ## Tampilan Website
 
-![Cuplikan 1](foto/Cuplikan layar 2025-05-22 130850.png)  
-![Cuplikan 2](foto/Cuplikan layar 2025-05-22 130904.png)  
-![Cuplikan 3](foto/Cuplikan layar 2025-05-22 130918.png)  
-![Cuplikan 4](foto/Cuplikan layar 2025-05-22 131026.png)  
-![Cuplikan 5](foto/Cuplikan layar 2025-05-22 131106.png)  
-![Cuplikan 6](foto/Cuplikan layar 2025-05-22 131123.png)  
+![Cuplikan 1](foto/Cuplikan%20layar%202025-05-22%20130850.png)
+![Cuplikan 2](foto/Cuplikan%20layar%202025-05-22%20130904.png)
+![Cuplikan 3](foto/Cuplikan%20layar%202025-05-22%20130918.png)
+![Cuplikan 4](foto/Cuplikan%20layar%202025-05-22%20131026.png)
+![Cuplikan 5](foto/Cuplikan%20layar%202025-05-22%20131106.png)
+![Cuplikan 6](foto/Cuplikan%20layar%202025-05-22%20131123.png)
+
 
 
 > Gambar ini menunjukkan berbagai antarmuka utama dari halaman user dan admin pemesanan hotel.
