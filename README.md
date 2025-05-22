@@ -12,8 +12,6 @@ Aplikasi web untuk melakukan reservasi hotel secara online. Dibuat menggunakan P
 
 ## 🖼️ Tampilan Website
 
-## Tampilan Website
-
 ![Cuplikan 1](foto/Cuplikan%20layar%202025-05-22%20130850.png)
 ![Cuplikan 2](foto/Cuplikan%20layar%202025-05-22%20130904.png)
 ![Cuplikan 3](foto/Cuplikan%20layar%202025-05-22%20130918.png)
